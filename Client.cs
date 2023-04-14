@@ -1,6 +1,6 @@
 ﻿namespace ConsoleApp1
 {
-    internal class Client
+    public class Client
     {
         //les proprietes de la classe client 
 

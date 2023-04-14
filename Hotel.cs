@@ -32,5 +32,11 @@ namespace ConsoleApp1
             Nom = nom;
             clientsHotel = new ArrayList();
         }
+
+        //la methode ajouter client dans hotel
+        public void AjouterClient(Client client)
+        {
+            clientsHotel.Add(client);
+        }
     }
 }
